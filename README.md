@@ -4,18 +4,7 @@ Overview
 This project involves analyzing a financial transactions dataset using SQL to extract valuable insights and perform various analyses. The dataset includes transactions such as Payments, Transfers, Cash Outs, and Debits, with attributes like transaction amounts, original and new balances, account identifiers, and fraud indicators.
 Table of Contents
 
-    Dataset
-    Key Analyses and Queries
-        Classifying Transactions Based on Amount
-        Identifying Suspicious Transactions
-        Total Amount Transacted by Each Account
-        Accounts with Multiple Transaction Types
-        Top 3 Largest Transactions per Account
-        Detecting Accounts with Multiple Fraudulent Transactions
-    Project Highlights
-    Outcome
-    Getting Started
-    License
+  
 
 Dataset
 
